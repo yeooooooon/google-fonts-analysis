@@ -51,3 +51,7 @@ Google Fonts API를 활용해 폰트 메타데이터를 수집하고, 카테고�
 - `data/raw/google_fonts_raw.json` : 원본 Google Fonts 데이터
 - `data/processed/fonts_cleaned.csv` : 정제된 분석 데이터
 - `.gitignore` : 민감한 로컬 파일과 원본 데이터 제외 설정
+
+---
+
+(./images/google_fonts_결과.png)
