@@ -54,4 +54,8 @@ Google Fonts API를 활용해 폰트 메타데이터를 수집하고, 카테고�
 
 ---
 
-(./images/google_fonts_결과.png)
+## 09. 분석 결과
+
+![Google Fonts 분석 결과](./images/google_fonts_결과.png)
+
+위 이미지는 Google Fonts 메타데이터를 기반으로 도출한 주요 분석 결과를 요약한 화면입니다.
